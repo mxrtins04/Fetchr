@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "spring-boot.ls.checkJVM": false,
+    "java.compile.nullAnalysis.mode": "automatic"
+}

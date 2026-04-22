@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factorypath>
+    <factorypathentry kind="PLUGIN" id="org.springframework.boot" name="Spring Boot Loader" enabled="true" runInBatchMode="false">
+        <contributing-nature id="org.springframework.ide.eclipse.core.springnature"/>
+    </factorypathentry>
+</factorypath>
