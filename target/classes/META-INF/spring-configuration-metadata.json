@@ -1,0 +1,35 @@
+{
+  "groups": [
+    {
+      "name": "siphon",
+      "type": "com.fetchr.config.AppProperties",
+      "sourceType": "com.fetchr.config.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "siphon.default-quality",
+      "type": "java.lang.String",
+      "sourceType": "com.fetchr.config.AppProperties"
+    },
+    {
+      "name": "siphon.default-subtitle-language",
+      "type": "java.lang.String",
+      "sourceType": "com.fetchr.config.AppProperties"
+    },
+    {
+      "name": "siphon.download-dir",
+      "type": "java.lang.String",
+      "sourceType": "com.fetchr.config.AppProperties"
+    },
+    {
+      "name": "siphon.max-concurrent-downloads",
+      "type": "java.lang.Integer",
+      "sourceType": "com.fetchr.config.AppProperties"
+    }
+  ],
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
+}
